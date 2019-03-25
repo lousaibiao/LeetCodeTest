@@ -1,4 +1,7 @@
 import org.junit.jupiter.api.Assertions;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
 import org.junit.jupiter.api.Test;
 
 
@@ -7,42 +10,42 @@ class SolutionTest {
 
     @Test
     void strStr2() {
-        Assertions.assertEquals(2, solution.strStr("hello", "ll"));
+        assertEquals(2, solution.strStr("hello", "ll"));
     }
 
     @Test
     void strStrMinus1() {
-        Assertions.assertEquals(-1, solution.strStr("aaaaa", "bba"));
+        assertEquals(-1, solution.strStr("aaaaa", "bba"));
     }
 
     @Test
     void strStr0() {
-        Assertions.assertEquals(0, solution.strStr("hello", "hello"));
+        assertEquals(0, solution.strStr("hello", "hello"));
     }
 
     @Test
     void strStrSubString2() {
-        Assertions.assertEquals(2, solution.strStrSubString("hello", "ll"));
+        assertEquals(2, solution.strStrSubString("hello", "ll"));
     }
 
     @Test
     void strStrSubStringMinus1() {
-        Assertions.assertEquals(-1, solution.strStrSubString("aaaaa", "bba"));
+        assertEquals(-1, solution.strStrSubString("aaaaa", "bba"));
     }
 
     @Test
     void strStrSubString0() {
-        Assertions.assertEquals(0, solution.strStrSubString("hello", "hello"));
+        assertEquals(0, solution.strStrSubString("hello", "hello"));
     }
 
     @Test
-    void strStrSubString2Too(){
-        Assertions.assertEquals(2,solution.strStrSubString("aabbc","bbc"));
+    void strStrSubString2Too() {
+        assertEquals(2, solution.strStrSubString("aabbc", "bbc"));
     }
 
     @Test
-    void strStrSubStringMinus1Too(){
-        Assertions.assertEquals(-1,solution.strStrSubString("aabbc","bbcc"));
+    void strStrSubStringMinus1Too() {
+        assertEquals(-1, solution.strStrSubString("aabbc", "bbcc"));
     }
 
 }
