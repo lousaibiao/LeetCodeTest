@@ -1,0 +1,11 @@
+/Users/lousaibiao/Projects/Java/LeetCodeTest/Problem190CSharp/bin/Debug/netcoreapp2.2/Problem190CSharp.deps.json
+/Users/lousaibiao/Projects/Java/LeetCodeTest/Problem190CSharp/bin/Debug/netcoreapp2.2/Problem190CSharp.runtimeconfig.json
+/Users/lousaibiao/Projects/Java/LeetCodeTest/Problem190CSharp/bin/Debug/netcoreapp2.2/Problem190CSharp.runtimeconfig.dev.json
+/Users/lousaibiao/Projects/Java/LeetCodeTest/Problem190CSharp/bin/Debug/netcoreapp2.2/Problem190CSharp.dll
+/Users/lousaibiao/Projects/Java/LeetCodeTest/Problem190CSharp/bin/Debug/netcoreapp2.2/Problem190CSharp.pdb
+/Users/lousaibiao/Projects/Java/LeetCodeTest/Problem190CSharp/obj/Debug/netcoreapp2.2/Problem190CSharp.csprojAssemblyReference.cache
+/Users/lousaibiao/Projects/Java/LeetCodeTest/Problem190CSharp/obj/Debug/netcoreapp2.2/Problem190CSharp.csproj.CoreCompileInputs.cache
+/Users/lousaibiao/Projects/Java/LeetCodeTest/Problem190CSharp/obj/Debug/netcoreapp2.2/Problem190CSharp.AssemblyInfoInputs.cache
+/Users/lousaibiao/Projects/Java/LeetCodeTest/Problem190CSharp/obj/Debug/netcoreapp2.2/Problem190CSharp.AssemblyInfo.cs
+/Users/lousaibiao/Projects/Java/LeetCodeTest/Problem190CSharp/obj/Debug/netcoreapp2.2/Problem190CSharp.dll
+/Users/lousaibiao/Projects/Java/LeetCodeTest/Problem190CSharp/obj/Debug/netcoreapp2.2/Problem190CSharp.pdb
