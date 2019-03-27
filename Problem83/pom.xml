@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.lou.leetcode.Problem83</groupId>
+    <artifactId>Problem83</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <parent>
+        <groupId>com.lou.leetcode.Common</groupId>
+        <artifactId>Common</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <dependencies>
+        <!--<dependency>-->
+            <!--<groupId>org.junit.jupiter</groupId>-->
+            <!--<artifactId>junit-jupiter-api</artifactId>-->
+            <!--<version>5.5.0-M1</version>-->
+        <!--</dependency>-->
+        <dependency>
+            <groupId>com.lou.leetcode.Common</groupId>
+            <artifactId>Common</artifactId>
+            <version>1.0-SNAPSHOT</version>
+            <scope>test,compile</scope>
+        </dependency>
+    </dependencies>
+
+</project>
